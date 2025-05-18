@@ -5,7 +5,7 @@
 
 ## Academic Profile
 🎓 Pursuing Bachelor's in Artificial Intelligence (4th Semester)  
-🏫 University of Engineering and Technology (Expected Graduation: 2026)  
+🏫 University of Engineering and Technology (Expected Graduation: 2027)  
 📚 Relevant Coursework: Data Structures, Algorithms, Database Systems, Machine Learning Fundamentals
 
 ---
