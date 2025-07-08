@@ -23,7 +23,6 @@ I'm a passionate backend developer focused on crafting efficient, scalable, and 
 
 ## 🚀 What I'm Currently Learning
 
-- 🐳 Docker & Deployment Strategies (Heroku, Render)
 - 🔐 Advanced Django Middleware & Custom Permissions
 - 🧠 Machine Learning APIs & Resume Screening Models
 - ⚙️ Design Patterns for Scalable Backend Systems
@@ -63,15 +62,6 @@ Check out my complete work, projects, and contact form here:
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **Best Semester Project** – Candy Crush (C++)
-- 🎖 **Dean’s List** – Fall 2023 (NTU)
-- 💻 **Finalist** – NTU Coding Competition
-- 🤝 **Open-Source Contributor** – Django repos
-- ⚡ **3+ Hackathons** – Active participant
-
----
 
 ## ⚙️ Tech Stack
 
