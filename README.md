@@ -1,94 +1,98 @@
-<h1 align="center">👋 Hi, I'm Abdullah Tahir</h1>
+<div align="center">
 
-<p align="center">
-🎓 BSAI Student @ NTU | 🧠 Backend & AI Developer | 💻 Django + FastAPI Enthusiast
-</p>
+  # ⚡ ABDULLAH TAHIR
+  ### BACKEND ENGINEER // AI INTEGRATOR // PYTHON SPECIALIST
 
-<p align="center">
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-</p>
+  <p>
+    <em>Turning complex logic into scalable, high-performance architecture.</em>
+  </p>
+  
+  <br>
 
----
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-## 🧠 About Me
+</div>
 
-I'm a passionate backend developer focused on crafting efficient, scalable, and secure web solutions using **Django**, **FastAPI**, and Python. With a growing interest in integrating **machine learning** into backend systems, I'm always seeking new challenges that combine AI with real-world applications.  
-
----
-
-## 🚀 What I'm Currently Learning
-
-- 🔐 Advanced Django Middleware & Custom Permissions
-- 🧠 Machine Learning APIs & Resume Screening Models
-- ⚙️ Design Patterns for Scalable Backend Systems
+<br>
 
 ---
 
-## 🔥 My Projects
+## 🛑 THE MISSION
 
-### 🌐 Web Development
-| Project | Tech | Description |
-|--------|------|-------------|
-| 🛍️ Inventory Management System | FastAPI, SQLAlchemy, SQLite | RESTful API with full CRUD & auth |
-| 🎓 Online Study App | Django | Topic-based discussion rooms |
-| 🧾 Portfolio + Contact Form | Django, Email, Bootstrap | Personal branding + messaging |
-| 🛒 Simple E-commerce | Django | Products, auth, and shopping cart |
+I don't just write code; I **engineer systems**. 
 
-### 🤖 AI & ML
-| Project | Tech | Description |
-|--------|------|-------------|
-| 📄 Resume Analyzer | Python, ML | Predicts profession from resume text |
-| 🔍 Sentiment Analyzer | NLTK | Classifies text sentiment |
-| 🧠 Image Classifier | TensorFlow/Keras | MNIST digit recognition using CNN |
+Currently a BSAI student at NTU, I specialize in building ruthless backends using **Django** and **FastAPI**. My focus is shifting beyond standard CRUD operations—I am actively fusing **Machine Learning** pipelines with web infrastructure to build intelligent, self-adapting applications.
 
-### 🎮 Other Projects
-| Project | Tech | Description |
-|--------|------|-------------|
-| 🍬 Candy Crush Clone | C++ | Board logic & scoring system |
-| 🚀 Space Invader | Pygame | 2D shooter with enemy logic |
+**My Core Philosophy:** Write clean, ship fast, and optimize for scale.
 
 ---
 
-## 🌐 Visit My Portfolio
+## ⚡ CURRENT OPERATIONS
 
-Check out my complete work, projects, and contact form here:
-
-🔗 https://abdullahbintahir42.github.io/new_portfolio/
-
----
-
-
-## ⚙️ Tech Stack
-
-**Languages & Backend**
-- Python, C++, SQL
-- Django, FastAPI, REST APIs
-
-**Database & Tools**
-- PostgreSQL, SQLite, SQLAlchemy
-- Git, Linux, Docker (learning)
-
-**Frontend Basics**
-- HTML, CSS, Bootstrap
-
-**ML Tools**
-- scikit-learn, pandas, NLTK, TensorFlow
+> **Leveling Up:**
+> * 🛠 **System Architecture:** Implementing advanced Design Patterns & Custom Middleware.
+> * 🧠 **AI Integration:** Deploying ML models via APIs (Resume Screening & NLP).
+> * 🔒 **Security:** Hardening auth flows and permission layers.
 
 ---
 
-## 📬 Connect with Me
+## 🛠️ ARSENAL & PROJECTS
 
-[![Email](https://img.shields.io/badge/Gmail-abdullahbintahir42@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahbintahir42@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah_Tahir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-tahir-23ntucs1004)  
-[![GitHub](https://img.shields.io/badge/GitHub-AbdullahbinTahir42-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdullahbinTahir42)
+### 🏗️ Backend Engineering
+| DEPLOYMENT | STACK | THE BUILD |
+| :--- | :--- | :--- |
+| **Inventory System** | `FastAPI` `SQLAlchemy` | High-speed REST API with granular Auth & CRUD. |
+| **Study Network** | `Django` | Real-time discussion rooms structured by topic. |
+| **E-Commerce Core** | `Django` | Full shopping cart logic, order processing, and user management. |
+| **Personal Hub** | `Django` `Bootstrap` | Portfolio engine with integrated SMTP messaging. |
+
+### 🧠 Artificial Intelligence
+| MODEL | TOOLKIT | CAPABILITY |
+| :--- | :--- | :--- |
+| **Resume Parser** | `Python` `Scikit-Learn` | NLP-driven prediction of candidate professions. |
+| **Sentiment Engine** | `NLTK` | Text classification pipeline for user feedback analysis. |
+| **Neural Vision** | `TensorFlow` `Keras` | CNN-based MNIST digit recognition system. |
+
+### 🕹️ Algorithms & Logic
+| PROJECT | LANGUAGE | LOGIC |
+| :--- | :--- | :--- |
+| **Candy Crush Engine** | `C++` | Complex board state management and scoring algorithms. |
+| **Space Invader** | `Python (Pygame)` | 2D physics, collision detection, and enemy AI. |
 
 ---
 
-<p align="center">
-  <i>"Code with purpose, build with passion."</i>
-</p>
+## 📊 GITHUB ANALYTICS
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahbinTahir42&show_icons=true&theme=radical&hide_border=true" alt="Abdullah's Github Stats" />
+</div>
+
+---
+
+## 🌐 DEPLOYMENT ZONE
+
+Check out the live interface of my work:
+### [👉 Launch Portfolio](https://abdullahbintahir42.github.io/new_portfolio/)
+
+---
+
+<div align="center">
+
+  ### LET'S CONNECT
+  
+  <a href="mailto:abdullahbintahir42@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/abdullah-tahir-23ntucs1004">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AbdullahbinTahir42">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</div>
