@@ -15,21 +15,11 @@
 
 <!-- Tech Stack with Icons -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,aws,redis,nginx,git,github,tensorflow,pytorch,linux" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,git,github,tensorflow,pytorch" />
 </div>
 
 <br>
 
-<!-- Stats Cards -->
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahbinTahir42&show_icons=true&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=4F46E5&icon_color=10B981&text_color=9ca3af)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahbinTahir42&layout=compact&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=4F46E5&text_color=9ca3af)
-  
-  ![Streak](https://streak-stats.demolab.com?user=AbdullahbinTahir42&theme=nightowl&hide_border=true&background=0D1117&ring=4F46E5&fire=10B981&currStreakLabel=9CA3AF)
-
-</div>
 
 </div>
 
