@@ -3,23 +3,22 @@
 <!-- Animated Header -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=⚡+ABDULLAH+TAHIR;BACKEND+ARCHITECT;AI+INTEGRATOR;SYSTEMS+ENGINEER" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=⚡+ABDULLAH+TAHIR;PYTHON+AI%2FML+DEVELOPER;BACKEND+ARCHITECT;AI+AGENT+INTEGRATOR" alt="Typing SVG" />
   </a>
 </h1>
 
 <h3 align="center" style="color: #6B7280;">
-  <em>Engineering scalable systems where logic meets performance</em>
+  <em>Engineering intelligent systems where robust backend architecture meets AI</em>
 </h3>
 
 <br>
 
 <!-- Tech Stack with Icons -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,git,github,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,postgres,git,github,tensorflow,pytorch" />
 </div>
 
 <br>
-
 
 </div>
 
@@ -29,11 +28,11 @@
 
 ## 🚀 **ARCHITECTURE PHILOSOPHY**
 
-> **Systems over code. Solutions over features.**
+> **Autonomous systems over manual processes. Solutions over features.**
 
-I build backend architecture that doesn't just work—it *performs*. Currently advancing my BSAI studies at NTU while engineering production-ready systems. My focus is on creating intelligent infrastructure where traditional web development converges with machine learning pipelines.
+I build intelligent backend architectures that don't just work—they *perform*. Currently advancing my BSAI studies at NTU while engineering production-ready AI systems at Paklogics. My focus is on creating autonomous infrastructure where robust web development converges with deep learning and multi-agent workflows.
 
-**Core Mantra:** *Scalable. Secure. Smart.*
+**Core Mantra:** *Scalable. Intelligent. Seamless.*
 
 ---
 
@@ -43,10 +42,10 @@ I build backend architecture that doesn't just work—it *performs*. Currently a
 
 | **DOMAIN** | **FOCUS AREA** | **TECH STACK** |
 | :--- | :--- | :--- |
-| **Backend Systems** | Microservices, Async Architecture | FastAPI, PostgreSQL, Redis, Celery |
-| **AI Integration** | ML Pipeline Deployment | TensorFlow, Scikit-learn, ONNX |
-| **DevOps** | Containerization & Orchestration | Docker, AWS, CI/CD Pipelines |
-| **System Design** | Scalable Architecture Patterns | Message Queues, Caching, Load Balancing |
+| **Agentic AI** | Multi-Agent Orchestration, LLMOps | LangGraph, LangChain, LangSmith |
+| **Backend Systems** | RESTful APIs, Workflow Automation | Python, Django, FastAPI, n8n |
+| **Machine Learning** | Deep Learning, Vector Workflows | PyTorch, TensorFlow, Scikit-learn |
+| **Frontend Integration** | UI Components, State Management | React |
 
 </div>
 
@@ -54,26 +53,19 @@ I build backend architecture that doesn't just work—it *performs*. Currently a
 
 ## 💼 **PROJECT PORTFOLIO**
 
-### 🏗️ **Production Systems**
+### 🏗️ **Production Systems & Platforms**
 | **Project** | **Stack** | **Highlights** | **Status** |
 | :--- | :--- | :--- | :--- |
-| **Real-time Analytics API** | FastAPI, Redis, Websockets | Real-time data streaming with pub/sub | 🔴 **Live** |
-| **AI-Powered Inventory System** | Django, Celery, PostgreSQL | Predictive stock management with ML | 🟢 **Active** |
-| **E-commerce Backend** | Django REST, JWT, Stripe | Full payment integration & cart logic | 🟡 **Maintained** |
-| **Study Network Platform** | Django Channels, WebSockets | Real-time chat & collaboration tools | 🔴 **Live** |
+| **Global Remote Jobs Platform** | React, Django/FastAPI | Platform connecting international talent with remote opportunities globally | 🔴 **Live** |
+| **AI Recruitment System** | FastAPI, LangGraph, Deep Learning | Capstone: Intelligent candidate screening & multi-agent matching | 🟢 **Active** |
+| **Workflow Automation Hub** | n8n, Python, Webhooks | Complex data routing and API orchestration pipelines | 🟡 **Maintained** |
 
 ### 🧠 **AI/ML Engineering**
-| **Project** | **Framework** | **Capability** | **Accuracy** |
+| **Project** | **Framework** | **Capability** | **Focus** |
 | :--- | :--- | :--- | :--- |
-| **Resume Intelligence Engine** | Transformers, FastAPI | Job role prediction & skill extraction | 94.2% |
-| **Sentiment Analysis API** | BERT, Django REST | Real-time text classification | 91.7% |
-| **Computer Vision Pipeline** | TensorFlow, OpenCV | Image recognition & processing | 96.8% |
-
-### ⚙️ **Systems Programming**
-| **Project** | **Language** | **Complexity** | **Focus** |
-| :--- | :--- | :--- | :--- |
-| **Game Engine Core** | C++ | Advanced | Memory management & optimization |
-| **Automation Framework** | Python | Production | Parallel processing & task scheduling |
+| **Multi-Agent Research Pipeline** | LangChain, LangGraph | Autonomous data retrieval, synthesis, and reasoning | Orchestration |
+| **Deep Learning Inference API** | PyTorch, FastAPI | Scalable model deployment for real-time predictions | Performance |
+| **LLM Tracing & Evaluation** | LangSmith, Python | Monitoring agent trajectories and optimizing token usage | LLMOps |
 
 ---
 
@@ -108,7 +100,7 @@ I build backend architecture that doesn't just work—it *performs*. Currently a
 
 ## 🤝 **CONNECT WITH ME**
 
-[![Email](https://img.shields.io/badge/📧_abdullahbintahir42@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahbintahir42@gmail.com)
+[![Email](https://img.shields.io/badge/📧_abdullahtahir4200@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahtahir4200@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/👔_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-tahir-23ntucs1004)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdullahbinTahir42)
 [![LeetCode](https://img.shields.io/badge/🧠_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
